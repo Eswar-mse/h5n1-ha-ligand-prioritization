@@ -1,4 +1,5 @@
-![H5N1 HA ligand prioritization banner](banner (2).gif)
+![H5N1 HA ligand prioritization banner](banner(2).gif)
+
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:000000,50:1a2a6c,100:000000)
 
