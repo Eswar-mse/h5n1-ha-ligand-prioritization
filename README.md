@@ -7,7 +7,7 @@
 <div align="center">
 <h3>H5N1 HA ligand prioritization</h3>
 
-**A sequence-guided computational study archive.** This repository preserves a report on the **hemagglutinin (HA)** protein of influenza A/Nevada/10/2025(H5N1). The study used a sequence-derived HA model, molecular docking, and short molecular dynamics (MD) simulations to compare plant-derived compounds with a docking-selected antiviral comparator. It is an archive of the completed report and its figures, not a runnable workflow: the original scripts, structures, docking outputs, and MD trajectories are no longer available.
+**A sequence-guided computational study archive.** This repository preserves a report on the **hemagglutinin (HA)** protein of influenza A/Nevada/10/2025(H5N1). The study used a sequence-derived HA model, molecular docking, and short molecular dynamics (MD) simulations to compare plant-derived compounds with a docking-selected antiviral comparator. It is an archive of the completed report and its figures, not a runnable workflow: the original scripts, structures, docking outputs, and MD trajectories are not disclosed here.
 
 </div>
 
@@ -28,8 +28,6 @@
 </div>
 
 HA helps influenza attach to sialic-acid-containing receptors and begin viral entry. Its receptor-binding region is shallow, flexible, and exposed to water, so a favorable docking pose may not remain in place when the protein and solvent move. The study asked whether selected natural-product ligands would retain plausible contacts with a **modeled H5N1 HA trimer** during MD, and how their behavior compared with a docking-selected polar antiviral compound.
-
-The report's title uses “mutation-resilient,” but the available analysis concerns one 2025 HA sequence compared with a historical reference. It does not test ligand performance across multiple HA variants.
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:000000,50:1a2a6c,100:000000)
 
